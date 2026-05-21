@@ -14,6 +14,8 @@ To write a program to implement the back end of the compiler.
 6. Stop the program.
 
 # PROGRAM
+
+exp6_0211.c:
 ```
 #include <stdio.h>
 #include <stdlib.h>
@@ -73,6 +75,11 @@ int main() {
     fclose(fp);
     return 0;
 }
+```
+exp6_0211.txt:
+```
+t1 = a + b
+t2 = t1 - c
 ```
 
 # OUTPUT
